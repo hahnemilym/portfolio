@@ -1,9 +1,9 @@
 
 ### Steps
-1. source create_env.zsh
-2. source create_kernel.zsh
-4. jupyter-lab rearc_tc_all.ipynb (answers for steps 1-3: select kernel + run all cells)
-5. python main.py (answers for step 4)
+1. `source create_env.zsh`
+2. `source create_kernel.zsh`
+4. `jupyter-lab rearc_tc_all.ipynb` (answers for steps 1-3: select kernel + run all cells)
+5. `python main.py` (answers for step 4)
 
 ### Overview
 
