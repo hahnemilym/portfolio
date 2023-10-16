@@ -1,0 +1,16 @@
+{	
+	"secrets":
+	{
+		"AWS_ACCESS_KEY": "",
+		"AWS_SECRET_ACCESS": "",
+		"AWS_ARN":"arn:aws:iam:::role/admin",
+		"AWS_REGION":"us-east-1"
+	},
+	"pipeline":
+	{
+		"S3_BUCKET": "bls-data-sample-rearc",
+		"SQS_QUEUE": "bls-sqs-queue-sample-rearc",
+		"LAMBDA_P1_P2": "bls-lambda-p1-p2-sample-rearc",
+		"LAMBDA_P3": "bls-lambda-p3-sample-rearc"
+	}
+}
