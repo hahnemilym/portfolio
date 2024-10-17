@@ -1,7 +1,0 @@
-aws-cdk.core
-aws-cdk.aws-s3
-aws-cdk.aws-sqs
-aws-cdk.aws-lambda
-aws-cdk.aws-events
-aws-cdk.aws-events-targets
-aws-cdk.aws-s3-notifications
